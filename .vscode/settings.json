@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.usf": "hlsl",
+        "aefx_arbparsehelper.h": "c"
+    }
+}
